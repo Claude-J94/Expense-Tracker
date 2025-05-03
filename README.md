@@ -8,6 +8,8 @@ A simple desktop GUI application to track your daily expenses. You can add, modi
 
 > A screenshot
 > <img width="349" alt="image" src="https://github.com/user-attachments/assets/db62984d-73dd-4647-82d3-28df70368bb3" />
+<img width="512" alt="image" src="https://github.com/user-attachments/assets/ff4afa27-d8a5-4b61-b718-11858f8d56cb" />
+
 
 
 ---
